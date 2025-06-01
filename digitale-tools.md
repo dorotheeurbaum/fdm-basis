@@ -9,8 +9,9 @@
 ## Whiteboard
 * (z. B. Miroboard, Conceptboard, Collaborad)
 ## Tool für kollaboratives (Er)Arbeiten 
-* (z. B. Etherpad, HedgeDoc, GWDG Pad, Yopad...)
-
+* (z. B. Etherpad, HedgeDoc, GWDG Pad, Yopad, Padlet...)
+## Lernplattformen
+* (z. B. Moodle, ...)
 
 
 # Für Copy and Paste für Ausarbeitung einzelner Lernziele
