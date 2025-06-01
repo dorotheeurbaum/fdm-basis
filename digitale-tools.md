@@ -2,7 +2,7 @@
 
 ## Videokonferenztool 
 * (z. B. Zoom, Webex, Big Blue Button u. a.)
-## Präsenationstool
+## Präsentationstool
 * (z. B. Powerpoint, Mentimeter, Ashaslides)
 ## Quiz- und Umfragetool 
 * (z. B. Mentimeter, Kahoot ...)
@@ -13,10 +13,9 @@
 
 
 
-# Für Copy and Paste
+# Für Copy and Paste für Ausarbeitung einzelner Lernziele
 * Videokonferenztool (z. B. Zoom, Webex, Big Blue Button u. a.)
-* Präsenationstool (z. B. Powerpoint, Mentimeter, Ashaslides)
+* Präsentationstool (z. B. Powerpoint, Mentimeter, Ashaslides)
 * Quiz- und Umfragetool (z. B. Mentimeter, Kahoot ...)
 * Whiteboard (z. B. Miroboard, Conceptboard, Collaborad)
 * Tool für kollaboratives Arbeiten (z. B. Etherpad, HedgeDoc, GWDG Pad, Yopad...)
-* 
