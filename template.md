@@ -1,14 +1,15 @@
 # Template für die Erarbeitung des Micro-Contents für FDM-Basiskurs
 Ab jetzt gehts los: 
 
-# ID der LZM: Beispiel: 01_004_0068 (LZM)
+# Titel = ID der LZM: Beispiel: 01_004_0068 (LZM)
 
 ## Lernziel
 Nennung des Lernziels wie in LZM z. B.: 
+
 **Lernende können die Elemente und Ziele von Forschungsdaten-Policies benennen.**
 
 ### Inhaltlicher Input 
-ist quasi der zu erreichende Output der Lernenden wie in Lernzielen angegeben, hier: Ausformulierung von Definitionen, Ziele etc. mit Quellenangaben
+ist quasi der zu erreichende Output der Lernenden wie in Lernzielen angegeben, hier dann Nennung der relevanten Inhalte wie Definitionen, Ziele etc. mit Quellenangaben
 
 ### Werkzeuge für das virtuelle Klassenzimmer
 Aus der folgenden Liste einfach alle wegstreichen, die nicht benötigt werden ->  Quelle der Liste, die noch weiter ausgebaut werden soll: https://github.com/anvoice-ger/fdm-basis/blob/main/digitale-tools.md
