@@ -11,6 +11,14 @@ Nennung des Lernziels wie in LZM z. B.:
 ### Inhaltlicher Input 
 ist quasi der zu erreichende Output der Lernenden wie in Lernzielen angegeben, hier dann Nennung der relevanten Inhalte wie Definitionen, Ziele etc. mit Quellenangaben
 
+### Didaktische Methoden (online) für Sozialform: Plenum
+
+### Didaktische Methoden (online) für Sozialform: Gruppenarbeit
+
+### Didaktische Methoden (online) für Sozialform: Einzelarbeit
+
+### Hinweis
+
 ### Werkzeuge für das virtuelle Klassenzimmer
 Aus der folgenden Liste einfach alle wegstreichen, die nicht benötigt werden ->  Quelle der Liste, die noch weiter ausgebaut werden soll: https://github.com/anvoice-ger/fdm-basis/blob/main/digitale-tools.md
 
@@ -19,12 +27,5 @@ Aus der folgenden Liste einfach alle wegstreichen, die nicht benötigt werden ->
 * Quiz- und Umfragetool (z. B. Mentimeter, Kahoot ...)
 * Whiteboard (z. B. Miroboard, Conceptboard, Collaborad)
 * Tool für kollaboratives Arbeiten (z. B. Etherpad, HedgeDoc, GWDG Pad, Yopad...)
-
-### Didaktische Methoden (online) für Sozialform: Plenum
-
-### Didaktische Methoden (online) für Sozialform: Gruppenarbeit
-
-### Didaktische Methoden (online) für Sozialform: Einzelarbeit
-
-### Hinweis
+  
 ### Methodenpool
