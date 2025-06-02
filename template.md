@@ -15,7 +15,7 @@ ist quasi der zu erreichende Output der Lernenden wie in Lernzielen angegeben, h
 
 ### Didaktische Methoden (online) für Sozialform: Gruppenarbeit
 
-### Didaktische Methoden (online) für Sozialform: Einzelarbeit
+### Didaktische Methoden (online) für Sozialform: Selbststudium
 
 ### Hinweis
 
