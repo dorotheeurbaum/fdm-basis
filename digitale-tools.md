@@ -8,7 +8,7 @@
 * (z. B. Mentimeter, Kahoot ...)
 ## Whiteboard
 * (z. B. Miroboard, Conceptboard, Collaborad)
-## Tool für kollaboratives (Er)Arbeiten 
+## Tool für kollaboratives (Er)Arbeiten von Texten 
 * (z. B. Etherpad, HedgeDoc, GWDG Pad, Yopad, Padlet...)
 ## Lernplattformen
 * (z. B. Moodle, ...)
