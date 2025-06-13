@@ -9,7 +9,7 @@
 ## Whiteboard
 * (z. B. Miroboard, Conceptboard, Collaboard...)
 ## Tool für kollaboratives (Er)Arbeiten von Texten 
-* (z. B. Etherpad, HedgeDoc, GWDG Pad, Yopad, Padlet...)
+* (z. B. Etherpad, Cryptopad, HedgeDoc, GWDG Pad, Yopad, Padlet...)
 ## Lernplattform
 * (z. B. Moodle, ILIAS, OLAT...)
 
