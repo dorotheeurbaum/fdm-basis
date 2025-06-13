@@ -3,9 +3,9 @@
 ## Videokonferenztool 
 * (z. B. Zoom, Webex, Big Blue Button...)
 ## Präsentationstool
-* (z. B. Powerpoint, Mentimeter, Ashaslides...)
+* (z. B. Powerpoint, Mentimeter, Ashaslides, Cryptpad...)
 ## Quiz- und Umfragetool 
-* (z. B. Mentimeter, Kahoot. Slido ...)
+* (z. B. Mentimeter, Kahoot, Slido ...)
 ## Whiteboard
 * (z. B. Miroboard, Conceptboard, Collaboard...)
 ## Tool für kollaboratives (Er)Arbeiten von Texten 
